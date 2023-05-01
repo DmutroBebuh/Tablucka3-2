@@ -18,6 +18,8 @@ body {
     border-top: 2px solid red;
     border-left: 2px solid red;
     flex: 0 1 35%;
+    width: 80vw;
+    height: 20vh;
 }
 .item:nth-child(2) {
     border-right: 2px solid red;
